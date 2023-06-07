@@ -1,11 +1,8 @@
 ## The-Falcon1
 
-This it the website of [The-Falcon1](https://github.com/The-Falcon1). I am a programmer for a company mage by my friend [PixelAtom](https://github.com/PixelAtomDev) called [Horizon](https://sites.google.com/view/horison).
+This it the website of [Fa1cono](https://github.com/Fa1cono). I like programming and am wanting to look more into C and Java, hire me! (or train me).
 
 
-## What is Horizon?
-
-Horizon is a technology company working on many different products. like: [Logster](https://sites.google.com/view/getlogster), [OasisD](https://sites.google.com/view/horison/oasisid) and [
 
 ```markdown
 Syntax highlighted code block
