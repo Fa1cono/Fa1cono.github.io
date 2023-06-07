@@ -1,8 +1,10 @@
-## The-Falcon1
+## Fa1cono
 
-This it the website of [Fa1cono](https://github.com/Fa1cono). I like programming and am wanting to look more into C and Java, hire me! (or train me).
+This is the website of [Fa1cono](https://github.com/Fa1cono). I like programming and am wanting to look more into C and Java, hire me! (or train me).
 
+## Markdown
 
+Markdown is an easy to learn and easy to use programming language that is used for making web pages on github!
 
 ```markdown
 Syntax highlighted code block
