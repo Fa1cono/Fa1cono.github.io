@@ -1,6 +1,6 @@
 # Fa1cono - Masterful Code Artisan 👨‍💻
 
-Welcome to the GitHub page dedicated to **Fa1cono**(https://github.com/Fa1cono), a coding enthusiast known for crafting elegant solutions in Python and C! 🌟 Explore the world of programming through the eyes of Fa1cono and discover the wonders of their creations. (This webpage was made by ChatGPT 'coz I'm lazy lol)
+Welcome to the GitHub page dedicated to [**Fa1cono**](https://github.com/Fa1cono), a coding enthusiast known for crafting elegant solutions in Python and C! 🌟 Explore the world of programming through the eyes of Fa1cono and discover the wonders of their creations. (This webpage was made by ChatGPT 'coz I'm lazy lol)
 
 ## About Me
 
