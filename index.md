@@ -32,7 +32,7 @@ I believe in the value of collaboration, and I'm an active contributor to variou
 
 Let's connect and talk code! Whether you're interested in discussing Pythonic elegance, optimizing C code, or exploring coding challenges, feel free to reach out.
 
-- Email: fa1cono@example.com
-- Twitter: [@Fa1conoCoder](https://twitter.com/Fa1conoCoder)
+- Email: fa1cono@protonmail.com
+- YouTube: [Fa1con](https://youtube.com/@fa1cono)
 
 Join me on this coding journey, where we'll create efficient and elegant solutions that leave a lasting impact in the world of programming! 🚀💻
